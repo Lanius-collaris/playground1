@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SAF trick</string>
     <string name="button_string">test</string>
+    <string name="button_go_test">go test</string>
 </resources>

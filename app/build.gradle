@@ -40,5 +40,6 @@ android {
 }
 
 dependencies {
+    implementation files('libs/abc.aar')
     testImplementation 'junit:junit:4.13.2'
 }
